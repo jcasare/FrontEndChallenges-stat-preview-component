@@ -35,7 +35,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/jcasare/FrontEndChallenges-stats-preview-component)
-- Live Site URL: [Live Site](https://jcasare.github.io/FrontEndChallenges-stats-preview-component/)
+- Live Site URL: [Live Site](https://jcasare.github.io/FrontEndChallenges-stat-preview-component/
+)
 
 ## My process
 
